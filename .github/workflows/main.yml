@@ -38,9 +38,7 @@ jobs:
           java -version
           echo Git is available..?
           git --version
-          echo maven installed..?
+          echo What about Other Build tools..?
           mvn --version
-          echo gradle..?
-          gradle --vaersion
-          echo Ant..?
+          gradle --version
           ant -version
